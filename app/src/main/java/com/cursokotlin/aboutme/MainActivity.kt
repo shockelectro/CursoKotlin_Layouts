@@ -7,7 +7,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //Conecta con el layout xml
+        //Conecta con el layout xmln
         setContentView(R.layout.activity_main)
     }
 }
